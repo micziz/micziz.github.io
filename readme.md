@@ -1,3 +1,3 @@
-# Micziz site
+# THIS SITE IS RETIRED AND IS HERE FOR HISTORICAL POURPOSE
 
-My site on github
+[LINK TO ACTUAL WEBSITE](https://micziz.dev)
